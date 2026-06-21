@@ -38,6 +38,20 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 | **Automation & Languages** | Python (Pandas, Boto3), Bash, PowerShell, VBA, C++, AngularJS |
 | **Mechanical & Hardware** | SolidWorks (CAD/FEA), GD&T, Arduino, Embedded Systems, HP iLO |
 
+TEST 
+my-project/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   └── Footer.jsx
+│   └── index.js
+├── package.json
+└── README.md
+
+
 
 Tech360cmd/ (GitHub Landing Page)
 │
