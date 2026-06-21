@@ -38,21 +38,11 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 | **Automation & Languages** | Python (Pandas, Boto3), Bash, PowerShell, VBA, C++, AngularJS |
 | **Mechanical & Hardware** | SolidWorks (CAD/FEA), GD&T, Arduino, Embedded Systems, HP iLO |
 
-TEST 
-my-project/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   └── Footer.jsx
-│   └── index.js
-├── package.json
-└── README.md
+<details>
+<summary>📂 Click to view directory structure</summary>
 
-
-
+```
+.
 Tech360cmd/ (GitHub Landing Page)
 │
 ├── README.md  <── [YOU ARE HERE: Executive overview mapping all 5 engineering domains]
@@ -92,3 +82,5 @@ Tech360cmd/ (GitHub Landing Page)
         ├── src/                      # Clean component layouts & UI module matrices
         └── migration-strategies/     # Technical approach notes detailing modern framework upgrades
 
+```
+</details>
