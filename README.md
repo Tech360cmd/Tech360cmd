@@ -16,7 +16,7 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 ### ⚙️ Mechanical Engineering & Manufacturing R&D
 *   **SolidWorks Design & Automation:** 3D assembly design of robotic end-effectors, optimized kinematic systems, and custom **VBA/Python automation macros** for automated CAD testing and BOM generation.
 *   **Industrial Automation & R&D:** Design and testing of specialized pick-and-place mechanics for custom high-speed RFID assembly lines, improving throughput by **22%**.
-*   *Main Repository:* [solidworks-automation-manufacturing](https://github.com)
+*   *Main Repository:* [solidworks-automation-manufacturing](https://github.com/Tech360cmd/Tech360cmd-solidworks-automation-manufacturing)
 
 ### 🧬 Biomedical & Signal Processing Engineering
 *   **Biomimetic Prosthetic Hand:** Author of an R&D research paper documenting the end-to-end design of a physical biomimetic prosthetic hand driven by real-time **Voice Recognition** and filtered **ECG/EEG Brain Wave signals**.
