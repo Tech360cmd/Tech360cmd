@@ -37,3 +37,44 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 | **Operating Systems** | RHEL/CentOS, Ubuntu Server, Windows Server (Active Directory) |
 | **Automation & Languages** | Python (Pandas, Boto3), Bash, PowerShell, VBA, C++, AngularJS |
 | **Mechanical & Hardware** | SolidWorks (CAD/FEA), GD&T, Arduino, Embedded Systems, HP iLO |
+
+
+Tech360cmd/ (GitHub Landing Page)
+│
+├── README.md  <── [YOU ARE HERE: Executive overview mapping all 5 engineering domains]
+│
+└── 🔗 REPOSITORY SHORTCUT LINKS:
+    │
+    ├── 📁 hybrid-cloud-automation/  (DevOps & Cloud-Native Pillar)
+    │   ├── .github/workflows/
+    │   │   └── main.yml              # CI/CD pipeline for IaC linting & Ansible checks
+    │   ├── terraform/
+    │   │   ├── modules/
+    │   │   │   ├── aws_vpc/          # Custom networking layout
+    │   │   │   ├── aws_ec2/          # Dynamic VM instance sizing
+    │   │   │   └── aws_eks/          # Production Kubernetes cluster setup
+    │   │   └── environments/prod/    # Live orchestrations
+    │   ├── kubernetes-manifests/     # Microservice deployment specs & load balancers
+    │   ├── ansible-playbooks/        # Multi-OS provisioning, storage expansion, Windows IAM
+    │   └── orchestration-workflows/  # Apache Airflow monitoring DAGs (On-prem to Cloud)
+    │
+    ├── 📁 solidworks-automation-manufacturing/  (Mechanical Engineering Pillar)
+    │   ├── rfid-assembly-line/       # R&D documentation for custom pick-and-place systems
+    │   │   ├── documentation/        # Engineering Change Notices (ECN) & GD&T bounds
+    │   │   └── renders/              # High-res JPEG/PNG 3D SolidWorks assembly views
+    │   └── solidworks-macros/        # VBA & Python scripts automating BOM generation/CAD checking
+    │
+    ├── 📁 biomimetic-prosthetic-hand-research/  (Biomedical & Biotech Pillar)
+    │   ├── research-paper/           # PDF of your research paper (Voice + ECG/EEG inputs)
+    │   ├── signal-processing/        # C++/Python algorithms capturing data arrays
+    │   └── hardware-schematics/      # Circuit boards and 3D printing STL file assets
+    │
+    ├── 📁 oil-gas-project-management/  (Industrial Project Leadership Pillar)
+    │   ├── project-charters/         # Redacted engineering scope & execution plans
+    │   ├── risk-registers/           # Mitigation matrices for pipeline/facility upgrades
+    │   └── cost-controls/            # Redacted WBS structures & variance tracking tables
+    │
+    └── 📁 legacy-angularjs-portfolio/  (Frontend Software Track)
+        ├── src/                      # Clean component layouts & UI module matrices
+        └── migration-strategies/     # Technical approach notes detailing modern framework upgrades
+
