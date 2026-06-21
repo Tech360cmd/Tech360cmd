@@ -11,7 +11,7 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 *   **Infrastructure as Code:** Advanced infrastructure provisioning using modular **Terraform** for both multi-tier EC2 architectures and highly available **Kubernetes (EKS)** clusters.
 *   **Configuration Management & OS Hardening:** End-to-end automation of **Linux & Windows Server** lifecycle management, storage expansion, Active Directory access control, and compliance policies via **Ansible Playbooks**.
 *   **Hybrid Orchestration:** Metal-to-cloud bootstrapping utilizing **HP iLO** automation over hardware SSH interfaces, managed and monitored through custom scheduled **Apache Airflow DAGs**.
-*   *Main Repository:* [hybrid-cloud-automation]([https://github.com](https://github.com/Tech360cmd/Tech360cmd-devops-infrastructure-automation)
+*   *Main Repository:* [hybrid-cloud-automation]([https://github.com](https://github.com/Tech360cmd/Tech360cmd-devops-infrastructure-automation/)
 
 ### ⚙️ Mechanical Engineering & Manufacturing R&D
 *   **SolidWorks Design & Automation:** 3D assembly design of robotic end-effectors, optimized kinematic systems, and custom **VBA/Python automation macros** for automated CAD testing and BOM generation.
