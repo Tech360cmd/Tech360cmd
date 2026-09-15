@@ -20,11 +20,11 @@ I bridge the gap between physical engineering and high-scale digital infrastruct
 
 ### 🧬 Biomedical & Signal Processing Engineering
 *   **Biomimetic Prosthetic Hand:** Author of an R&D research paper documenting the end-to-end design of a physical biomimetic prosthetic hand driven by real-time **Voice Recognition** and filtered **ECG/EEG Brain Wave signals**.
-*   *Main Repository:* [biomimetic-prosthetic-hand-research](https://github.com)
+*   *Main Repository:* [biomimetic-prosthetic-hand-research](https://github.com/Tech360cmd/Tech360cmd-biomimetic-prosthetic-hand-research/)
 
 ### 🌐 Frontend Development (Legacy Modernization)
 *   **Web Applications:** Structuring, component mapping, and enterprise state management inside legacy **AngularJS** production applications.
-*   *Main Repository:* [legacy-angularjs-portfolio-modrenization](https://github.com/Tech360cmd-legacy-hybrid-modernization/)
+*   *Main Repository:* [legacy-angularjs-portfolio-modrenization](https://github.com/Tech360cmd/Tech360cmd-legacy-hybrid-modernization/)
 
 ---
 
