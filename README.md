@@ -80,6 +80,7 @@ Tech360cmd/ (GitHub Landing Page)
     │
     └── 📁 Tech360cmd-legacy-hybrid-modernization/
         │
+        └── README.md               # Architecture documentation overview
         ├── .github/workflows/
         │   └── node-ci.yml        # Fires 'npm test' (Now executes BOTH Mocha & Jasmine cascadingly!)
         ├── spec/
@@ -93,7 +94,7 @@ Tech360cmd/ (GitHub Landing Page)
         ├── app.js
         ├── index.php
         └── package.json
-        └── README.md               # Architecture documentation overview
+
 
 ```
 </details>
